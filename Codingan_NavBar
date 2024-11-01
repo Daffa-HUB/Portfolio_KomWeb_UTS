@@ -1,0 +1,12 @@
+<header>
+        <nav>
+            <div class="logo">MY PORTFOLIO</div>
+            <ul>
+                <li><a href="main.php" >Dashboard</a></li>
+                <li><a href="About_Me.php" >About me</a></li>
+                <li><a href="Skill.php" >Skill</a></li>
+                <li><a href="Achievement.php" >Achievement</a></li>
+                <li><a href="Contact.php" >Contact</a></li>
+            </ul>
+        </nav>
+    </header>
